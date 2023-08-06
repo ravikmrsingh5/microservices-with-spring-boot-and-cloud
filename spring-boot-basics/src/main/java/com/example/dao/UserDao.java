@@ -1,5 +1,6 @@
 package com.example.dao;
 
+import com.example.errors.UserNotFound;
 import com.example.models.User;
 import org.springframework.stereotype.Component;
 
